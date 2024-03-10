@@ -45,6 +45,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/pritambose0/pritambose0/output/snake.svg" alt="Snake animation" />
 
 ###
