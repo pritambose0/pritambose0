@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 Recent completed project [Multi Step Login Form](pritam-multi-step-login-form.netlify.app)
+- 👨‍💻 Recent completed project [Full Stack Blog App](https://pritam-fullstack-blogapp.netlify.app/)
 
 - 📫 How to reach me **pritambose040@gmail.com**
 
