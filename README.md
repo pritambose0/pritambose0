@@ -50,6 +50,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritambose0&show_icons=true&locale=en&layout=compact&theme=dark" alt="pritambose0" width="70%" style="margin-bottom: 20px;" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritambose0&show_icons=true&locale=en&layout=compact&theme=dark" alt="pritambose0" width="50%" style="margin-bottom: 10px;" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritambose0&theme=dark" alt="pritambose0" width="70%"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritambose0&theme=dark" alt="pritambose0" width="50%"/></p>
